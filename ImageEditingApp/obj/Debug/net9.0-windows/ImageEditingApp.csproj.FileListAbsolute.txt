@@ -1,0 +1,16 @@
+C:\Users\natem\source\repos\ImageEditingApp\ImageEditingApp\obj\Debug\net9.0-windows\ImageEditingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natem\source\repos\ImageEditingApp\ImageEditingApp\obj\Debug\net9.0-windows\ImageEditingApp.AssemblyInfoInputs.cache
+C:\Users\natem\source\repos\ImageEditingApp\ImageEditingApp\obj\Debug\net9.0-windows\ImageEditingApp.AssemblyInfo.cs
+C:\Users\natem\source\repos\ImageEditingApp\ImageEditingApp\obj\Debug\net9.0-windows\ImageEditingApp.csproj.CoreCompileInputs.cache
+C:\Users\natem\source\repos\ImageEditingApp\ImageEditingApp\bin\Debug\net9.0-windows\ImageEditingApp.exe
+C:\Users\natem\source\repos\ImageEditingApp\ImageEditingApp\bin\Debug\net9.0-windows\ImageEditingApp.deps.json
+C:\Users\natem\source\repos\ImageEditingApp\ImageEditingApp\bin\Debug\net9.0-windows\ImageEditingApp.runtimeconfig.json
+C:\Users\natem\source\repos\ImageEditingApp\ImageEditingApp\bin\Debug\net9.0-windows\ImageEditingApp.dll
+C:\Users\natem\source\repos\ImageEditingApp\ImageEditingApp\bin\Debug\net9.0-windows\ImageEditingApp.pdb
+C:\Users\natem\source\repos\ImageEditingApp\ImageEditingApp\obj\Debug\net9.0-windows\ImageEditingApp.dll
+C:\Users\natem\source\repos\ImageEditingApp\ImageEditingApp\obj\Debug\net9.0-windows\refint\ImageEditingApp.dll
+C:\Users\natem\source\repos\ImageEditingApp\ImageEditingApp\obj\Debug\net9.0-windows\ImageEditingApp.pdb
+C:\Users\natem\source\repos\ImageEditingApp\ImageEditingApp\obj\Debug\net9.0-windows\ImageEditingApp.genruntimeconfig.cache
+C:\Users\natem\source\repos\ImageEditingApp\ImageEditingApp\obj\Debug\net9.0-windows\ref\ImageEditingApp.dll
+C:\Users\natem\source\repos\ImageEditingApp\ImageEditingApp\obj\Debug\net9.0-windows\ImageEditingApp.csproj.GenerateResource.cache
+C:\Users\natem\source\repos\ImageEditingApp\ImageEditingApp\obj\Debug\net9.0-windows\ImageEditingApp.ImageObject.resources
